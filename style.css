@@ -68,7 +68,7 @@ body {
 }
 
 .hero {
-  background-image: url('/media/attack-on-titan.jpg');
+  background-image: url('https://raw.githubusercontent.com/piyushhawq/Sticky-Navbar.github.io/main/media/attack-on-titan.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position:  center;
